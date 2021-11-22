@@ -28,7 +28,7 @@ body {
     line-height: 70px;
     text-align: center;
     margin: 0px 14px;
-    transition: 4s linear; 
+    transition: .4s linear; 
     position: relative;
     align-items: center;
     justify-content: center;
